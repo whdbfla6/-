@@ -1,3 +1,9 @@
+# data 포함
+/data
+
+# 맥
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
